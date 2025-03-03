@@ -1,5 +1,8 @@
 # ProGamers-website
 
+Main view of website:
+![main_view](https://github.com/user-attachments/assets/74fac76f-a4d8-41e5-b892-da6dbafd4158)
+
 
 ## Project Description
 The ProGames company website is a responsive web application designed to showcase the company's gaming portfolio, pricing, team, and other essential information. The project aims to provide a professional and engaging online presence for ProGames, highlighting their expertise and offerings in the gaming industry.
