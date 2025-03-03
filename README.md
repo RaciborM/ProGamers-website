@@ -1,6 +1,6 @@
 # ProGamers-website
 
-Main view of website:
+Main view of the website:
 ![main_view](https://github.com/user-attachments/assets/74fac76f-a4d8-41e5-b892-da6dbafd4158)
 
 
